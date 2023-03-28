@@ -1,0 +1,28 @@
+{
+    "id": "BF7104B4",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1680027144969.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "bce7970f3a2b491cb1ec6275323a3d5d",
+        "name": "awesome_violin_plot",
+        "title": "awesome_violin_plot",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680019210,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680027144969,
+    "read_only": false,
+    "read_only_alternatives": []
+}
