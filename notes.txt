@@ -2,3 +2,4 @@ each point represents a country.
 We plotted life expectacy over time. Each point represents a coutnry. Continets are group by color.
 How about some animation?
 Noooooooo!
+Hector says hi!
